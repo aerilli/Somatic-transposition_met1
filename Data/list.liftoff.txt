@@ -1,0 +1,10 @@
+CDS
+exon
+five_prime_UTR
+gene
+miRNA
+mRNA
+ncRNA
+snoRNA
+snRNA
+three_prime_UTR

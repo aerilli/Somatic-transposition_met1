@@ -1,0 +1,10 @@
+bc1001	met1_01
+bc1002	met1_02
+bc1003	met1_03
+bc1008	met1_04
+bc1009	met1_05
+bc1010	met1_06
+bc1011	met1_07
+bc1012	met1_08
+bc1015	met1_09
+bc1016	met1_10

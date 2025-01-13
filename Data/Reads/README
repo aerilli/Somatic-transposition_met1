@@ -1,0 +1,5 @@
+# Download met1 and wild-type reads at SRA
+
+# de-multiplexing with
+./Data/Reads/Tsu-0_met1_individuals.barcodes.txt
+./Data/Reads/Tsu-0_WT.barcodes.txt

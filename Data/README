@@ -1,0 +1,11 @@
+# Downloading essential files
+
+# TAIR10 genome fasta
+wget https://www.arabidopsis.org/download/file?path=Genes/TAIR10_genome_release/TAIR10_chromosome_files/TAIR10_chr_all.fas.gz ./Data/TAIR10.fa
+
+# TAIR10 gene annotation
+wget https://www.arabidopsis.org/download/file?path=Genes/TAIR10_genome_release/TAIR10_gff3/TAIR10_GFF3_genes.gff ./Data/TAIR10.gene-anno.gff
+
+
+# Col-CC TE consensus library
+wget ${TEcurlib} ./Data/Col-CC.cur-lib.fa
