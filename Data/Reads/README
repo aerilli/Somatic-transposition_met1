@@ -1,5 +1,12 @@
-# Download met1 and wild-type reads at SRA
+# Download met1 and wild-type reads at ENA
+https:/www.ebi.ac.uk/ena/browser/view/PRJEB85646 
 
-# de-multiplexing with
+
+# reads are already demultiplexed with the following barcodes
 ./Data/Reads/Tsu-0_met1_individuals.barcodes.txt
 ./Data/Reads/Tsu-0_WT.barcodes.txt
+
+# bam files were generated with ccs and extracthifi and contains kinetics data for mCG extraction
+
+# fastq files were generated with deepconsensus pipeline
+## these fastq files were subsequently aligned to the reference genome

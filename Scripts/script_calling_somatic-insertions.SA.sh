@@ -173,7 +173,8 @@ cat $BAMOUT.TE-overlap.SA.TE-format.re-overlap.merged.bed |
 rm `ls $BAMOUT* | grep -v final` && rm lowquality.reads
 rm ./fake-repeats.bed
 
-./Scripts/script_calling_somatic-insertions.retriever.sh $BAMOUT.TE-overlap.SA.TE-format.re-overlap.merged.final.bed 
+#./Scripts/script_calling_somatic-insertions.retriever.sh $BAMOUT.TE-overlap.SA.TE-format.re-overlap.merged.final.bed 
+/ebio/abt6_projects/met1_somatic_transpositions/doc/Movilli_2025/Scripts/script_calling_somatic-insertions.retriever.sh  $BAMOUT.TE-overlap.SA.TE-format.re-overlap.merged.final.bed 
 
 
 # Virtual env deactivation
