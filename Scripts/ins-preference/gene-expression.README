@@ -1,0 +1,8 @@
+#240724
+
+/ebio/abt6_projects/met1_somatic_transpositions/data/3_somatic-events/r_mutations/insertion-bias/Expression_bias/RNA-Seq/pipeline/mk_rsem_ref_HiFi-genomes.sh
+
+bash /ebio/abt6_projects/met1_somatic_transpositions/data/3_somatic-events/r_mutations/insertion-bias/Expression_bias/RNA-Seq/pipeline/pipeline_Batch1.sh \
+    /ebio/abt6_projects/met1_somatic_transpositions/data/3_somatic-events/r_mutations/insertion-bias/Expression_bias/RNA-Seq/data/run186/run186.config.sh \
+     > /ebio/abt6_projects/met1_somatic_transpositions/data/3_somatic-events/r_mutations/insertion-bias/Expression_bias/RNA-Seq/tmp/pipelineoutput/pipeline_Batch2_$(date '+%Y-%m-%d-%H').out 2>&1 
+

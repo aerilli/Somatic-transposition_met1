@@ -1,0 +1,10 @@
+/ebio/abt6_projects/met1_somatic_transpositions/data/3_somatic-events/r_mutations/insertion-bias/Accessibility_bias/ATAC-Seq/script_ATAC-Seq_mapping_merging-fq_Tsu0_P2.sh \
+ /ebio/abt6_projects/met1_somatic_transpositions/data/3_somatic-events/r_mutations/insertion-bias/Accessibility_bias/ATAC-Seq \
+ Tsu-0 \
+ 32
+
+
+/ebio/abt6_projects/met1_somatic_transpositions/data/3_somatic-events/r_mutations/insertion-bias/Accessibility_bias/ATAC-Seq/script_ATAC-Seq_mapping_merging-fq_Tsu0_WT.sh \
+ /ebio/abt6_projects/met1_somatic_transpositions/data/3_somatic-events/r_mutations/insertion-bias/Accessibility_bias/ATAC-Seq \
+ Tsu-0 \
+ 32
